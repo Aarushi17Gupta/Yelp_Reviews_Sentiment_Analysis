@@ -15,7 +15,7 @@ Preprocessing involves the following steps
 (iii) Removing all the words whose length is less than 2
 (iv) Text Normalization- The process in which the sentences are broken down to words for further processing
 
-### 5. Lemmtization
+### 5. Lemmatization
 Lemmatization is the process of using vocabulary and morphological analysis of words, normally aiming to remove unnecessary endings only and to return the base or dictionary form of a word, which is known as the lemma .
 
 ### 6. Creating Word Clouds
